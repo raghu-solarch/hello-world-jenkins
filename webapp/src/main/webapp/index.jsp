@@ -22,7 +22,7 @@ p {
 
 <h1>My First CSS Example</h1>
 <p>This is a paragraph.</p>
-
+<p>New line added.</p>
 </body>
 </html>
 
